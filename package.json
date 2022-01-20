@@ -1,0 +1,21 @@
+{
+    "name": "vscode-pink",
+    "displayName": "VSCode Pink",
+    "description": "Pink theme for Visual Studio! Barbie learns to code...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink",
+                "uiTheme": "vs",
+                "path": "./themes/Pink-color-theme.json"
+            }
+        ]
+    }
+}
