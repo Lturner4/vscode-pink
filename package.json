@@ -2,13 +2,18 @@
     "name": "vscode-pink",
     "displayName": "VSCode Pink",
     "description": "Pink theme for Visual Studio! Barbie learns to code...",
-    "version": "0.0.1",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Lucy Turner",
+        "email": "lucyturner2022@gmail.com",
+        "url": "https://www.linkedin.com/in/lucyturner2022"
+    },
     "contributes": {
         "themes": [
             {
